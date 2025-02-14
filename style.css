@@ -1,0 +1,33 @@
+body{
+    background-color: brown;
+    justify-content: space-between;
+}
+.Counter-container{
+    font-size: 30px;
+    margin: 30px;
+    text-align: center;
+    border: 1px solid rgb(19, 18, 18);
+    background-color: aqua ;
+    width: 25%;
+    border-radius: 10px;
+    padding: 10px;
+}
+.Counter-container button{
+    background-color: rgb(12, 182, 54);
+    padding: 15px;
+    border-radius: 10px;
+}
+#increase{
+    background-color: green;
+    color: black;
+    
+}
+#decrease{
+    background-color: red;
+    color: black;
+
+}
+#reset{
+    background-color: chocolate;
+    color: black;
+}
